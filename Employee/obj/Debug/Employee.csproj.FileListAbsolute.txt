@@ -1,0 +1,6 @@
+D:\NETTRAINING\Employee\Employee\bin\Debug\Employee.dll
+D:\NETTRAINING\Employee\Employee\bin\Debug\Employee.pdb
+D:\NETTRAINING\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\NETTRAINING\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\NETTRAINING\Employee\Employee\obj\Debug\Employee.dll
+D:\NETTRAINING\Employee\Employee\obj\Debug\Employee.pdb
